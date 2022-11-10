@@ -11,7 +11,7 @@ git remote add <имя для репозитория> <адрес репозит
 ```
 ```C#
 int count = 0;
-while (counf <= n)
+while (count <= n)
 {
     count++;
 }
